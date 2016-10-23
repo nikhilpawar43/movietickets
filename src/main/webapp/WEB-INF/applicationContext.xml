@@ -14,4 +14,5 @@
        http://www.springframework.org/schema/security/spring-security-3.2.xsd">
     
     <context:annotation-config />
+    
 </beans>
